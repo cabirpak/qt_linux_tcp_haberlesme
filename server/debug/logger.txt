@@ -1,0 +1,16 @@
+>>> StartMessage | 12-Aug-2023 22:57:10 session opened.
+>>> StartMessage | 12-Aug-2023 22:57:10 portnumber.txt file does not exist, setting it to default (53421).
+>>> StartMessage | 12-Aug-2023 22:57:10 there are 12 interfaces on server. now, trying to listen them.
+>>> StartMessage | 12-Aug-2023 22:57:10 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 22:57:10 listen success for 192.168.56.1:53421
+>>> StartMessage | 12-Aug-2023 22:57:10 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 22:57:10 listen failed for 169.254.154.65:53421
+>>> StartMessage | 12-Aug-2023 22:57:10 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 22:57:10 listen failed for 169.254.206.77:53421
+>>> StartMessage | 12-Aug-2023 22:57:10 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 22:57:10 listen failed for 169.254.50.199:53421
+>>> StartMessage | 12-Aug-2023 22:57:10 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 22:57:10 listen success for 192.168.1.37:53421
+>>> StartMessage | 12-Aug-2023 22:57:10 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 22:57:10 listen success for 127.0.0.1:53421
+>>> StartMessage | 12-Aug-2023 22:57:13 server constructed. version: V0.01
