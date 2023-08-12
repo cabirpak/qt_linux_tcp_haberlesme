@@ -1,0 +1,111 @@
+>>> StartMessage | 12-Aug-2023 19:22:37 session opened.
+>>> StartMessage | 12-Aug-2023 19:22:37 portnumber.txt file does not exist, setting it to default (53421).
+>>> StartMessage | 12-Aug-2023 19:22:37 there are 12 interfaces on server. now, trying to listen them.
+>>> StartMessage | 12-Aug-2023 19:22:37 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:22:37 listen success for 192.168.56.1:53421
+>>> StartMessage | 12-Aug-2023 19:22:37 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:22:37 listen failed for 169.254.154.65:53421
+>>> StartMessage | 12-Aug-2023 19:22:37 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:22:37 listen failed for 169.254.206.77:53421
+>>> StartMessage | 12-Aug-2023 19:22:37 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:22:37 listen failed for 169.254.50.199:53421
+>>> StartMessage | 12-Aug-2023 19:22:37 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:22:37 listen success for 192.168.1.37:53421
+>>> StartMessage | 12-Aug-2023 19:22:37 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:22:37 listen success for 127.0.0.1:53421
+>>> StartMessage | 12-Aug-2023 19:22:37 server constructed. version: V1.13
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=0A:00:27:00:00:0B
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=0A-00-27-00-00-0B
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=54:7F:DD:47:43:02
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=54-7F-DD-47-43-02
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=04:56:E5:BB:D7:40
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=04-56-E5-BB-D7-40
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=06:56:E5:BB:D7:3F
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=06-56-E5-BB-D7-3F
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=04:56:E5:BB:D7:3F
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=04-56-E5-BB-D7-3F
+>>> StartMessage | 12-Aug-2023 19:22:37 The application will be closed in 10 seconds if copy protection response from the server is invalid.
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:22:37 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:44:31 session opened.
+>>> StartMessage | 12-Aug-2023 19:44:31 port number set to 53421
+>>> StartMessage | 12-Aug-2023 19:44:31 there are 12 interfaces on server. now, trying to listen them.
+>>> StartMessage | 12-Aug-2023 19:44:31 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:44:31 listen success for 192.168.56.1:53421
+>>> StartMessage | 12-Aug-2023 19:44:31 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:44:31 listen failed for 169.254.154.65:53421
+>>> StartMessage | 12-Aug-2023 19:44:31 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:44:31 listen failed for 169.254.206.77:53421
+>>> StartMessage | 12-Aug-2023 19:44:31 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:44:31 listen failed for 169.254.50.199:53421
+>>> StartMessage | 12-Aug-2023 19:44:31 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:44:31 listen success for 192.168.1.37:53421
+>>> StartMessage | 12-Aug-2023 19:44:31 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:44:31 listen success for 127.0.0.1:53421
+>>> StartMessage | 12-Aug-2023 19:44:32 server constructed. version: V1.13
+>>> StartMessage | 12-Aug-2023 19:44:32 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=0A:00:27:00:00:0B
+>>> StartMessage | 12-Aug-2023 19:44:32 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=0A-00-27-00-00-0B
+>>> StartMessage | 12-Aug-2023 19:44:32 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=54:7F:DD:47:43:02
+>>> StartMessage | 12-Aug-2023 19:44:32 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=54-7F-DD-47-43-02
+>>> StartMessage | 12-Aug-2023 19:44:32 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=04:56:E5:BB:D7:40
+>>> StartMessage | 12-Aug-2023 19:44:32 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=04-56-E5-BB-D7-40
+>>> StartMessage | 12-Aug-2023 19:44:32 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=06:56:E5:BB:D7:3F
+>>> StartMessage | 12-Aug-2023 19:44:32 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=06-56-E5-BB-D7-3F
+>>> StartMessage | 12-Aug-2023 19:44:32 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=04:56:E5:BB:D7:3F
+>>> StartMessage | 12-Aug-2023 19:44:32 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=04-56-E5-BB-D7-3F
+>>> StartMessage | 12-Aug-2023 19:44:32 The application will be closed in 10 seconds if copy protection response from the server is invalid.
+>>> StartMessage | 12-Aug-2023 19:44:33 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:44:33 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:44:33 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:44:33 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:44:33 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:44:33 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:44:33 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:44:33 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:44:33 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:44:33 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:46:08 session opened.
+>>> StartMessage | 12-Aug-2023 19:46:08 port number set to 53421
+>>> StartMessage | 12-Aug-2023 19:46:08 there are 12 interfaces on server. now, trying to listen them.
+>>> StartMessage | 12-Aug-2023 19:46:08 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:46:08 listen success for 192.168.56.1:53421
+>>> StartMessage | 12-Aug-2023 19:46:08 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:46:08 listen failed for 169.254.154.65:53421
+>>> StartMessage | 12-Aug-2023 19:46:08 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:46:08 listen failed for 169.254.206.77:53421
+>>> StartMessage | 12-Aug-2023 19:46:08 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:46:08 listen failed for 169.254.50.199:53421
+>>> StartMessage | 12-Aug-2023 19:46:08 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:46:08 listen success for 192.168.1.37:53421
+>>> StartMessage | 12-Aug-2023 19:46:08 ignoring interface with other than IPv4.
+>>> StartMessage | 12-Aug-2023 19:46:08 listen success for 127.0.0.1:53421
+>>> StartMessage | 12-Aug-2023 19:46:08 server constructed. version: V1.13
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=0A:00:27:00:00:0B
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=0A-00-27-00-00-0B
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=54:7F:DD:47:43:02
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=54-7F-DD-47-43-02
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=04:56:E5:BB:D7:40
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=04-56-E5-BB-D7-40
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=06:56:E5:BB:D7:3F
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=06-56-E5-BB-D7-3F
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=04:56:E5:BB:D7:3F
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection queries for interfaces: https://auth.digigreet.com/check-mac.aspx?mac=04-56-E5-BB-D7-3F
+>>> StartMessage | 12-Aug-2023 19:46:08 The application will be closed in 10 seconds if copy protection response from the server is invalid.
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection response for an interface: 
+>>> StartMessage | 12-Aug-2023 19:46:08 Copy protection response for an interface: 
